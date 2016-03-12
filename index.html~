@@ -36,28 +36,22 @@
     
       <ul class="nav navbar-nav navbar-right">
             <li>
-	<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-                <a class="a2a_button_facebook"> 
+                <a href="#"> 
                     <i  class="fa fa-facebook-square"></i>
                     Share
                 </a>
-	</div>
             </li>
              <li>
-	<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-                <a class="a2a_button_twitter"> 
+                <a href="#"> 
                     <i class="fa fa-twitter"></i>
                     Tweet
                 </a>
-	</div>
             </li>
              <li>
-	<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-                <a class="a2a_button_email"> 
+                <a href="#"> 
                     <i class="fa fa-envelope-o"></i>
                     Email
                 </a>
-	</div>
             </li>
        </ul>
 
