@@ -1,0 +1,15 @@
+nav {
+background: #ddd;
+
+}
+nav li a{
+background: red;
+text-decoration: none;
+padding: 10px;
+
+
+}
+nav li{
+float: left;
+list-style: none;
+}
