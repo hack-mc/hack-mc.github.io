@@ -1,14 +1,7 @@
 /*------------------------------------------------------------------- /
 
-Theme Name: Heal
-Theme URI: http://codexcoder.com/
-Author: CodexCoder
-Author URI: http://codexcoder.com/
-Description: Heal is a one page html template
-Version: 1.0.2
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: html, themplate, ccr, Heal
 
 --------------------------------------------------------------------- */
 
@@ -506,6 +499,7 @@ time {
 }
 .parallax-overlay {
 	background-color: rgba(0,0,0,.6);
+	max-height: 525px;
 }
 .parallax-overlay.dark-overlay {
 	background-color: #fff);
