@@ -499,7 +499,7 @@ time {
 }
 .parallax-overlay {
 	background-color: rgba(0,0,0,.6);
-	max-height: 525px;
+	height: 600px;
 }
 .parallax-overlay.dark-overlay {
 	background-color: #fff);
