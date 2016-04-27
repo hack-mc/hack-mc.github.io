@@ -765,7 +765,7 @@ a.donate:hover {
 	color: #0d0d0d;
 }
 .menu-bg-overlay {
-	background-color: rgba(0,0,0,.5);
+	background-color: rgba(0,0,0,.9);
 }
 .navbar-default.menu-bg .navbar-nav>.active>a,
 .navbar-default.menu-bg .navbar-nav>.active>a:hover,
